@@ -1,7 +1,9 @@
 # 股市篩選爬蟲
 最後更新日期 : 2022/06/18  
 系統版本號 : V1.5.1  [^1]  
-系統更新內容 : 新增並上傳爬蟲至GitHub專案頁面
+系統更新內容 : 
+-改進Line Notify訊息通知格式
+-美化Line Notify訊息通知
 [^1]: 歷史版本紀錄情詳:https://bacons.cc/kmu/stkver.txt
 ## 前言
 這個頁面存放的Python檔案，是我利用Python所製作的股票篩選爬蟲。  
