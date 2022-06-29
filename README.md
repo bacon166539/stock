@@ -3,7 +3,7 @@
 系統版本號 : V1.6  [^1]  
 系統更新內容 : 
 -更動股票清單所引取指方式
-[^1]: 歷史版本紀錄情詳:https://docs.google.com/spreadsheets/d/12K44nVoEXV6l2cOOBSFbIfZ-uMTvB-LIDd1cfHzQAgw/edit?usp=sharing
+[^1]: 歷史版本紀錄情詳: [Google表單連結](https://docs.google.com/spreadsheets/d/12K44nVoEXV6l2cOOBSFbIfZ-uMTvB-LIDd1cfHzQAgw/edit?usp=sharing)
 ## 前言
 這個頁面存放的Python檔案，是我利用Python所製作的股票篩選爬蟲。  
 此股票篩選爬蟲能夠協助我篩選有購買價值意義的股票。  
