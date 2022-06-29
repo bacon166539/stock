@@ -1,10 +1,9 @@
 # 股市篩選爬蟲
-最後更新日期 : 2022/06/25  
-系統版本號 : V1.5.1  [^1]  
+最後更新日期 : 2022/06/29  
+系統版本號 : V1.6  [^1]  
 系統更新內容 : 
--改進Line Notify訊息通知格式
--美化Line Notify訊息通知
-[^1]: 歷史版本紀錄情詳:https://bacons.cc/ms/stkver.txt
+-更動股票清單所引取指方式
+[^1]: 歷史版本紀錄情詳:https://docs.google.com/spreadsheets/d/12K44nVoEXV6l2cOOBSFbIfZ-uMTvB-LIDd1cfHzQAgw/edit?usp=sharing
 ## 前言
 這個頁面存放的Python檔案，是我利用Python所製作的股票篩選爬蟲。  
 此股票篩選爬蟲能夠協助我篩選有購買價值意義的股票。  
