@@ -2,7 +2,7 @@
 最後更新日期 : 2022/07/05  
 系統版本號 : V1.7.2  [^1]  
 系統更新內容 : 
--改進代數自檢查機制
+-改進代數自檢查機制 -改進Line Notify訊息通知格式  
 [^1]: 歷史版本紀錄情詳: [Google表單連結](https://docs.google.com/spreadsheets/d/12K44nVoEXV6l2cOOBSFbIfZ-uMTvB-LIDd1cfHzQAgw/edit?usp=sharing)
 ## 前言
 這個頁面存放的Python檔案，是我利用Python所製作的股票篩選爬蟲。  
